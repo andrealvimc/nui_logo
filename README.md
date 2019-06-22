@@ -8,4 +8,4 @@ Comandos:
 
 /logoff (deixa a logo invisivel)
 
-
+Funciona em qualquer Framework
