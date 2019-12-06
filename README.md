@@ -4,8 +4,6 @@ Nui para mostrar a logo do servidor
 
 Comandos:
 
-/logoon (deixa a logo visivel)
-
-/logoff (deixa a logo invisivel)
+/logo <Liga/Desliga>
 
 Funciona em qualquer Framework
